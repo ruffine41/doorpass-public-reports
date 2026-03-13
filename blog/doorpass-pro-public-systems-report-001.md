@@ -1,3 +1,9 @@
+# DoorPass Pro Public Systems Report — Issue 001
+## Ticketing Infrastructure Overview
+
+Published: March 13, 2026
+Author: DoorPass Pro Infrastructure Team
+
 DoorPass Pro Public Systems Report — Issue 001
 Ticketing Infrastructure Overview
 Executive Summary
